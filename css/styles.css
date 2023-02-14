@@ -4,14 +4,17 @@
 
 .navbar-brand {
   font-family: "Ubuntu", sans-serif;
-  font-size: 2rem;
+  font-size: 2.5rem;
+  font-weight: 500;
 }
 
 h1 {
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat",sans-serif;
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
+  color: white;
+
 }
 
 .container-fluid{
