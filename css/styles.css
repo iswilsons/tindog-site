@@ -1,5 +1,7 @@
 #title {
-  background-color: #ff4c59;
+  background-color: #ff4c68;
+  color: #ffff;
+  overflow: hidden;
 }
 
 .navbar-brand {
@@ -8,15 +10,69 @@
   font-weight: 500;
 }
 
-h1 {
-  font-family: "Montserrat",sans-serif;
-  font-size: 3rem;
-  line-height: 1.5;
-  font-weight: 900;
-  color: white;
-
+body {
+  font-family: "Montserrat", sans-serif;
 }
 
-.container-fluid{
-    padding: 3% 15%;
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+h3 {
+  /* font-size: rem; */
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.image {
+  transform: rotate(20deg);
+  padding-top: 0px;
+  margin: 10% -10% -50% 20%;
+}
+
+.nav-item {
+  padding: 10%;
+}
+
+.nav-link {
+  font-size: 1.5rem;
+}
+
+.nav-link:hover {
+  color: #404040;
+}
+
+.btn {
+  margin-top: 15%;
+  margin-bottom: 10%;
+}
+
+.tittle-message {
+  margin-top: 15%;
+}
+
+.fa {
+  color: #ef8172;
+  margin: 4%;
+}
+.fa:hover {
+  color: #ff4c68;
+}
+
+.feature-box {
+  padding: 3%;
+}
+
+.container.features {
+  padding: auto 20px;
 }
