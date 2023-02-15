@@ -78,12 +78,15 @@ p {
 
 /* FEATURES SECTION */
 .feature-box {
-  padding: 3%;
+  padding: 2%;
+  
 }
 
 .container.features {
-  padding: auto 20px auto;
-  margin:10%;
+
+  padding: auto 20%;
+  margin:10% auto;
+  width: 80%;
 }
 
 /* TESTIMONIAL SECTION */
