@@ -1,1 +1,2 @@
-Tindog is a site where you meet interesting dogs new dogs
+Tindog is a site where your dog meet new interesting dogs
+Udemy course project 
